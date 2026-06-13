@@ -30,7 +30,7 @@ $$\frac{dS}{dt} = k_{inv}R(t) - k_{el}S$$
 Substitute our known solution for $R(t)$ into this equation:
 $$\frac{dS}{dt} = k_{inv}\left(R_0 e^{-k_{inv}t}\right) - k_{el}S$$
 
-Rearrange into the standard linear first-order differential form ($\frac{dS}{dt} + P(t)S = Q(t)$):
+Rearrange into the standard linear first-order differential form $\frac{dS}{dt} + P(t)S = Q(t)$:
 $$\frac{dS}{dt} + k_{el}S = k_{inv}R_0 e^{-k_{inv}t}$$
 
 ---
