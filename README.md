@@ -18,7 +18,7 @@ $$\int \frac{1}{R} \, dR = \int -k_{inv} \, dt$$
 
 $$\ln|R| = -k_{inv}t + C_1$$
 
-Taking the exponential of both sides and applying the initial boundary condition $R(0) = R_0 e^{-k_{inv}t}$$ where R_0 is the initial mass of the $(R)$-enantiomer
+Taking the exponential of both sides and applying the initial boundary condition $R(0) = R_0 e^{-k_{inv}t}$$ where $R_0$ is the initial mass of the $(R)$-enantiomer
 
 ---
 
