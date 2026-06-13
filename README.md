@@ -6,7 +6,7 @@ When your body experiences tissue damage or inflammation, it produces chemicals 
 
 Surprisingly, when you buy Ibuprofen at the pharamacy however, they sell it to you in a racemic mixture, where both enantiomers are in equal parts, this may seem like the pharmacy is selling less ibuprofen to you for the same price, but ibuprofen represents a unique pharmokinetic exception. When your body processes the ibuprofen, it goes to your liver, where it actively transforms the inactive $(R)$-enantiomer into the active $(S)$-enantiomer through the enzyme $\alpha$-methylacyl-CoA racemase (AMACR). 
 
-This project models the dynamic, unidirectional metabolic inversion of the inactive $(R)$-ibuprofen enantiomer into the therapeutically active $(S)$-enantiomer within the human system. Utilizing Euler's Method and Differential Equations, this simulation demonstrates how AMACR actively refine racemic pharmaceutical mixtures.
+This project models the dynamic, unidirectional metabolic inversion of the inactive $(R)$-ibuprofen enantiomer into the chemically active $(S)$-enantiomer within the human system. Utilizing Euler's Method and Differential Equations, this simulation demonstrates how AMACR actively refine racemic pharmaceutical mixtures.
 
 ---
 
