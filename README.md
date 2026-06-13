@@ -74,7 +74,7 @@ $$S(t) = \frac{k_{inv}R_0}{k_{el} - k_{inv}} e^{-k_{inv}t} + C e^{-k_{el}t}$$
 ---
 
 ### 7. Evaluating the Constant $C$ via Boundary Conditions
-At the exact moment the payload is ingested ($t = 0$), the initial mass of the active drug baseline is $S(0) = S_0$. Substituting these parameters (keeping in mind that $e^0 = 1$):
+At the exact moment the payload is ingested ($t = 0$), the initial mass of the active drug baseline is $S(0) = S_0$. Substituting these parameters:
 
 $$S_0 = \frac{k_{inv}R_0}{k_{el} - k_{inv}}(1) + C(1)$$
 
