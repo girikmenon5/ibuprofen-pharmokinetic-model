@@ -98,6 +98,8 @@ $$S(t) = \left( S_0 - \frac{k_{inv} R_0}{k_{el} - k_{inv}} \right) e^{-k_{el} t}
 
 To approximate continuous calculus within a spreadsheet architecture, the system was discretized using Euler's Method with a step size of $\Delta t = 0.1 \text{ hours}$:
 
+#### Using the formula:
+#### New mass = Old mass + (Rate of change x Time step)
 * $R(t + \Delta t) = R(t) + (-k_{inv} R(t)) \Delta t$
 * $S(t + \Delta t) = S(t) + (k_{inv} R(t) - k_{el} S(t)) \Delta t$
 
