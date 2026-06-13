@@ -1,4 +1,4 @@
-# Pharmacokinetic Modeling of Chiral Inversion: An Differential Equation Simulation of (R)-Ibuprofen
+# Pharmacokinetic Modeling of Chiral Inversion: An Ordinary Differential Equation Simulation of (R)-Ibuprofen
 
 ## Project Overview
 
