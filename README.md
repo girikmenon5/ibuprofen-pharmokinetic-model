@@ -6,23 +6,10 @@ This project models the dynamic, unidirectional metabolic inversion of the inact
 ---
 
 ## The Mathematical Framework
-
-The system is governed by a set of coupled, first-order linear ordinary differential equations (ODEs) balancing concurrent hepatic inversion and renal clearance:
-
-### Inactive Enantiomer Decay
-$$\frac{dR}{dt} = -k_{inv}R$$
-
-### Active Enantiomer Balancing
-$$\frac{dS}{dt} = k_{inv}R - k_{el}S$$
-
-### Analytical Solution (Derived via Integrating Factor)
-
-## Full Mathematical Derivation (Integrating Factor Method)
-
 The pharmacokinetic lifecycle of racemic ibuprofen inside the body is modeled using a system of two coupled, first-order ordinary differential equations (ODEs). Below is the step-by-step analytical solution for the active drug profile $S(t)$.
 
 ### 1. Solving for the Inactive Enantiomer $R(t)$
-The rate of elimination of the inactive $(R)$-enantiomer depends solely on its current mass and the inversion constant $k_{inv}$:
+The rate of elimination of the inactive $(R)$-enantiomer depends solely on its current mass $(R)$ and the inversion constant $k_{inv}$:
 
 $$\frac{dR}{dt} = -k_{inv}R$$
 
@@ -31,8 +18,7 @@ $$\int \frac{1}{R} \, dR = \int -k_{inv} \, dt$$
 
 $$\ln|R| = -k_{inv}t + C_1$$
 
-Taking the exponential of both sides and applying the initial boundary condition $R(0) = R_0$:
-$$R(t) = R_0 e^{-k_{inv}t}$$
+Taking the exponential of both sides and applying the initial boundary condition $R(0) = R_0 e^{-k_{inv}t}$$
 
 ---
 
