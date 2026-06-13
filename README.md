@@ -1,7 +1,12 @@
 # Pharmacokinetic Modeling of Chiral Inversion: An Differential Equation Simulation of (R)-Ibuprofen
 
 ## Project Overview
-This project models the dynamic, unidirectional metabolic inversion of the inactive $(R)$-ibuprofen enantiomer into the therapeutically active $(S)$-enantiomer within the human system. Utilizing Euler's Method and Differential Equations, this simulation demonstrates how endogenous enzymes (specifically $\alpha$-methylacyl-CoA racemase, or AMACR) actively refine racemic pharmaceutical mixtures.
+
+When your body experiences tissue damage or inflammation, it produces chemicals called prostoglandins, which bind to enzymes and signals to the brain indicating that there's pain to trigger swelling or a fever. Ibuprofen blocks this process by binding to and inhibiting an enzyme called cyclooxygenase $(COX)$. The $(S)$-enantiomer of Ibuprofen is perfectly complementary to the COX enzyme's active site, this means that it can competitively inhibit the prostoglandins and reduce swelling and fever. However, ibuprofen has 2 isomers and the $(R)$-enantiomer's is not complementary to the COX enzyme, making the isomer chemically inactive in the body; this is because its methyl group is oriented in a 3D configuration that physically prevents it from binding correctly to the enzyme's stereospecific active site.
+
+Surprisingly, when you buy Ibuprofen at the pharamacy however, they sell it to you in a racemic mixture, where both enantiomers are in equal parts, this may seem like the pharmacy is selling less ibuprofen to you for the same price, but ibuprofen represents a unique pharmokinetic exception. When your body processes the ibuprofen, it goes to your liver, where it actively transforms the inactive $(R)$-enantiomer into the active $(S)$-enantiomer through the enzyme $\alpha$-methylacyl-CoA racemase (AMACR). 
+
+This project models the dynamic, unidirectional metabolic inversion of the inactive $(R)$-ibuprofen enantiomer into the therapeutically active $(S)$-enantiomer within the human system. Utilizing Euler's Method and Differential Equations, this simulation demonstrates how AMACR actively refine racemic pharmaceutical mixtures.
 
 ---
 
