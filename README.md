@@ -6,8 +6,6 @@ This project models the dynamic, unidirectional metabolic inversion of the inact
 ---
 
 ## The Mathematical Framework
-The pharmacokinetic lifecycle of racemic ibuprofen inside the body is modeled using a system of two coupled, first-order ordinary differential equations (ODEs). Below is the step-by-step analytical solution for the active drug profile $S(t)$.
-
 ### 1. Solving for the Inactive Enantiomer $R(t)$
 The rate of elimination of the inactive $(R)$-enantiomer depends solely on its current mass $(R)$ and the inversion constant $k_{inv}$:
 
