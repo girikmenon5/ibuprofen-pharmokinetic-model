@@ -1,7 +1,7 @@
-# Pharmacokinetic Modeling of Chiral Inversion: An ODE Simulation of (R)-Ibuprofen
+# Pharmacokinetic Modeling of Chiral Inversion: An Differential Equation Simulation of (R)-Ibuprofen
 
 ## Project Overview
-This project models the dynamic, unidirectional metabolic inversion of the inactive $(R)$-ibuprofen enantiomer into the therapeutically active $(S)$-enantiomer within the human hepatic system. Utilizing a deterministic one-compartment pharmacokinetic framework, this simulation demonstrates how endogenous enzymes (specifically $\alpha$-methylacyl-CoA racemase, or AMACR) actively refine racemic pharmaceutical mixtures.
+This project models the dynamic, unidirectional metabolic inversion of the inactive $(R)$-ibuprofen enantiomer into the therapeutically active $(S)$-enantiomer within the human system. Utilizing Euler's Method and Differential Equations, this simulation demonstrates how endogenous enzymes (specifically $\alpha$-methylacyl-CoA racemase, or AMACR) actively refine racemic pharmaceutical mixtures.
 
 ---
 
