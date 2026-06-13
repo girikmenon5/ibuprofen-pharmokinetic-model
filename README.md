@@ -112,7 +112,7 @@ To approximate continuous calculus within a spreadsheet architecture, the system
 
 ## Results & Visualization
 
-The simulation reveals an immediate exponential decay of the useless $(R)$-enantiomer alongside a paradoxical initial climb in the active $(S)$-enantiomer, peaking at **$208.4\text{ mg}$ at $t = 1.1\text{ hours}$**. This explicitly validates that endogenous generation temporarily outpaces systemic clearance. Total metabolic clearance hits **$99.72\%$** at the 24-hour mark.
+The simulation reveals an immediate exponential decay of the useless $(R)$-enantiomer alongside a paradoxical initial climb in the active $(S)$-enantiomer, peaking at **$207.45\text{ mg}$ at $t = 0.7\text{ hours}$**. This explicitly validates that endogenous generation temporarily outpaces systemic clearance. Total metabolic clearance hits **$99.75\%$** at the 24-hour mark.
 
 <img width="587" height="348" alt="image" src="https://github.com/user-attachments/assets/6080f50c-8540-4c5e-87b5-e6da4c4270c0" />
 
