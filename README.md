@@ -40,6 +40,6 @@ To approximate continuous calculus within a spreadsheet architecture, the system
 
 The simulation reveals an immediate exponential decay of the useless $(R)$-enantiomer alongside a paradoxical initial climb in the active $(S)$-enantiomer, peaking at **$208.4\text{ mg}$ at $t = 1.1\text{ hours}$**. This explicitly validates that endogenous generation temporarily outpaces systemic clearance. Total metabolic clearance hits **$99.72\%$** at the 24-hour mark.
 
-![Pharmacokinetic Profile](Graph.png)
+<img width="587" height="348" alt="image" src="https://github.com/user-attachments/assets/6080f50c-8540-4c5e-87b5-e6da4c4270c0" />
 
 *Note: The complete step-by-step dataset can be found in the `ibuprofen_simulation_data.xlsx` file included in this repository.*
