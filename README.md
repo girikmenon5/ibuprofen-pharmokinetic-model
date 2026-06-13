@@ -88,7 +88,7 @@ Substitute the expression for $C$ back into the equation from Step 6, and group 
 
 $$S(t) = \left( S_0 - \frac{k_{inv}R_0}{k_{el} - k_{inv}} \right) e^{-k_{el}t} + \left( \frac{k_{inv}R_0}{k_{el} - k_{inv}} \right) e^{-k_{inv}t}$$
 
-bTherefore, y applying an integrating factor $I_F = e^{k_{el}t}$ to the coupled system, the exact kinetic path of the active drug payload over time is determined analytically:
+Therefore, by applying an integrating factor $I_F = e^{k_{el}t}$ to the coupled system, the exact kinetic path of the active drug payload over time is determined analytically:
 
 $$S(t) = \left( S_0 - \frac{k_{inv} R_0}{k_{el} - k_{inv}} \right) e^{-k_{el} t} + \left( \frac{k_{inv} R_0}{k_{el} - k_{inv}} \right) e^{-k_{inv} t}$$
 
